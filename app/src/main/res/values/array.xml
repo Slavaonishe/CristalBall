@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="predictions">
+        <item>Жди денег</item>
+        <item>Будет счастье у тебя</item>
+        <item>Узнаешь о себе много нового</item>
+        <item>Ожидает сюрприз</item>
+        <item>Будет сопутствовать удача</item>
+    </string-array>
+</resources>
